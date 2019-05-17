@@ -15,7 +15,6 @@ class LoggerManager {
 
     private _loggers: {[key:string]: winston.Logger} = {}
 
-
     createLogger(name: string, options?: winston.LoggerOptions): winston.Logger{
         
         let _formatSource = winston.format.combine(
