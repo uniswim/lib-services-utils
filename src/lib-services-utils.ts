@@ -5,3 +5,5 @@ export const LoggerTransports = {
     consoleTransport: consoleTransport
 }
 
+export { ICache, RedisCache, MemoryCache } from "./Cache"
+
