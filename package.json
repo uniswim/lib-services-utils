@@ -1,6 +1,6 @@
 {
   "name": "@uniswim/lib-services-utils",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "",
   "keywords": [],
   "main": "dist/lib-services-utils.umd.js",
