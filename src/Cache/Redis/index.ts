@@ -1,5 +1,5 @@
 import * as Redis from "redis"
-import * as Flat from "flat"
+import Flat from "flat"
 import { ICache } from "..";
 
 export class RedisCache implements ICache {
