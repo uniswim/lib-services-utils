@@ -1,11 +1,11 @@
 {
   "name": "@uniswim/lib-services-utils",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "keywords": [],
   "main": "dist/lib-services-utils.umd.js",
   "module": "dist/lib-services-utils.es5.js",
-  "typings": "dist/types/lib-services-utils.d.ts",
+  "typings": "dist/lib/lib-services-utils.d.ts",
   "files": [
     "dist"
   ],
